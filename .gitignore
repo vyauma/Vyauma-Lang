@@ -28,6 +28,11 @@ dist/
 *.tmp
 *.bak
 
+# Local test scratchpads
+/test*.*
+/test_*.*
+/bad.*
+
 # AI / Agent Artifacts / Plans
 implementation_plan.md
 task.md
