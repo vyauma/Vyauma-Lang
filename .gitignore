@@ -27,3 +27,19 @@ dist/
 # Temporary files
 *.tmp
 *.bak
+
+# AI / Agent Artifacts / Plans
+implementation_plan.md
+task.md
+walkthrough.md
+vyauma_ecosystem_plan.md
+vyauma_overview.md
+.cursor/
+.cursorrules
+.windsurfrules
+.gemini/
+.cline/
+.cortex/
+scratch/
+artifacts/
+.system_generated/
