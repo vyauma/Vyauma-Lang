@@ -91,7 +91,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 
 ## Current Status
 
-Vyauma is in **Phase 1 — Foundation**. The CLI runner and `print` statement are implemented. The lexer, parser, and runtime are planned for Phase 2. See the [roadmap](docs/roadmap.md) for the full development plan.
+Vyauma is actively evolving with its core foundation complete. The Lexer, Parser, AST, Compiler, and Virtual Machine (VM) runtime are fully implemented and capable of executing Vyauma code. Current focus is expanding the standard library, FFI capabilities, and the developer ecosystem tooling (Package Manager, Formatter, LSP).
 
 ---
 
